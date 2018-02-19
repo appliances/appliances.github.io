@@ -93,7 +93,7 @@
                 "url": "http://wpa.qq.com/msgrd?v=3&uin=2548970078&site=qq&menu=yes"
             },{
                 "type": "QRcode",
-                "tip": "http://jq22com.qiniudn.com/12.png",
+                "tip": "https://appliances.github.io/work/include/images/security/wechat_code.png",
                 "text": "二维码",
                 "url": null
             }, {
