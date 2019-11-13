@@ -51,7 +51,8 @@
 .parts-floating[data-theme*='round'] li {-moz-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 50%;}
 .parts-floating[data-theme*='fillet'] li { -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
 .parts-floating[data-theme*='hollow'] li { border-style: solid; border-width: 2px; background-color: #fff !important; padding-bottom: calc(100% - 4px); }
-.parts-floating[data-theme*='Blacktheme'] li { background-color: rgba(4, 3, 3, 0.53) !important; color: #fff !important; }
+/* background-color: rgba(4, 3, 3, 0.53) */
+.parts-floating[data-theme*='Blacktheme'] li { !important; color: #fff !important; }
 .parts-floating li[data-type='Email']:hover { background-color: rgba(238, 97, 0, 0.6); border-color: rgba(238, 97, 0, 0.6); color: rgba(238, 97, 0, 0.6); }
 .parts-floating li[data-type='Phone']:hover { background-color: rgba(237, 99, 71, 0.6); border-color: rgba(237, 99, 71, 0.6); color: rgba(237, 99, 71, 0.6); }
 .parts-floating li[data-type='Skype']:hover { background-color: rgba(0, 122, 206, 0.6); border-color: rgba(0, 122, 206, 0.6); color: rgba(0, 122, 206, 0.6); }
