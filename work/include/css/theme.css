@@ -1059,9 +1059,10 @@ label.error {
 }
 .navbar.affix {
   position: fixed;
-  -webkit-box-shadow: #000 0px 0px 10px;  
-  -moz-box-shadow: #000 0px 0px 10px;  
-  box-shadow: #000 0px 0px 10px;
+    -webkit-box-shadow: #a6bcd0a3 0px 0px 10px;
+    -moz-box-shadow: #a6bcd0a3 0px 0px 10px;
+    box-shadow: #a6bcd0a3 0px 0px 10px;
+}
 }
 .navbar.affix .information {
   height: 0;
@@ -1258,9 +1259,10 @@ label.error {
   display: block;
   margin-bottom: 30px;
   background: #fff;
-  -webkit-box-shadow: #000 0px 0px 10px;  
-  -moz-box-shadow: #000 0px 0px 10px;  
-  box-shadow: #000 0px 0px 10px;
+   -webkit-box-shadow: #a6bcd0a3 0px 0px 10px;
+    -moz-box-shadow: #a6bcd0a3 0px 0px 10px;
+    box-shadow: #a6bcd0a3 0px 0px 10px;
+}
 }
 .project-item .gallery-image {
   margin-bottom: 10px;
@@ -1648,9 +1650,10 @@ label.error {
  *--------------------------------------------------------------------------------------------------------------------*/
 .footer {
   border-top: solid 2px #ff5555;
-  -webkit-box-shadow: #000 0px 0px 10px;  
-  -moz-box-shadow: #000 0px 0px 10px;  
-  box-shadow: #000 0px 0px 10px;
+-webkit-box-shadow: #a6bcd0a3 0px 0px 10px;
+    -moz-box-shadow: #a6bcd0a3 0px 0px 10px;
+    box-shadow: #a6bcd0a3 0px 0px 10px;
+}
   padding-bottom: 10px;
 }
 .footer p {
