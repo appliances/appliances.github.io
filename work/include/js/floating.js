@@ -93,8 +93,8 @@
                 "url": "http://wpa.qq.com/msgrd?v=3&uin=2548970078&site=qq&menu=yes"
             },{
                 "type": "QRcode",
-                "tip": "https://appliances.github.io/work/include/images/security/wechat_code.png",
-                "text": "二维码",
+                "tip": "https://appliances.github.io/work/include/images/security/wechat_code_2.png",
+                "text": "咨询维修 请微信扫码",
                 "url": null
             }, {
                 "type": "Top",
