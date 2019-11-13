@@ -1390,9 +1390,6 @@ label.error {
 .testimonials-carousel .testimonial .content {
   margin-bottom: 10px;
   background: #fff;
-  -webkit-box-shadow: #B5B4B4 0px 0px 10px;  
-  -moz-box-shadow: #B5B4B4 0px 0px 10px;  
-  box-shadow: #B5B4B4 0px 0px 10px;
 }
 .testimonials-carousel .testimonial .content .text {
   margin: 0;
